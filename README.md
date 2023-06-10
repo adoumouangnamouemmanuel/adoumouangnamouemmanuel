@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - [Click here for more information](https://example.com)
+- <span style="font-size:24px;">Text with increased size</span>
 
 <!---
 adoumouangnamouemmanuel/adoumouangnamouemmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
