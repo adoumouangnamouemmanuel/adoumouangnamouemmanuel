@@ -36,10 +36,10 @@
   <div>
     <h3 style="color:#6366F1; margin-top:0;">💫 <em>"Feed myself with code rather than food."</em></h3>
     <p style="font-size:16px; line-height:1.6;">
-      I'm a passionate frontend developer and AI enthusiast from Chad, dedicated to creating innovative solutions that make a difference. With a strong foundation in web technologies and a growing expertise in machine learning, I strive to bridge the gap between cutting-edge technology and practical applications.
+      Emmanuel Adoum is a tech enthusiast from Chad, focused on using innovation to tackle community challenges. With skills in computer science and engineering, he works on projects that improve education and sustainability.
     </p>
     <p style="font-size:16px; line-height:1.6;">
-      My journey in tech is driven by curiosity and a desire to solve complex problems. I believe in the power of technology to transform lives and am committed to creating accessible, user-friendly applications that address real-world challenges.
+      A strong leader, Emmanuel combines technical expertise with a passion for social impact, aiming to solve real-world problems through creative solutions.
     </p>
   </div>
 </div>
