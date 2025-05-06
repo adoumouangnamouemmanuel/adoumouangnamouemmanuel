@@ -59,10 +59,8 @@
 <details>
   <summary><h3>🎓 Education & Certifications</h3></summary>
   <ul>
-    <li>🎓 Bachelor's in Computer Science (Add your university)</li>
+    <li>🎓 Bachelor's in Computer Engineering at Ashesi University</li>
     <li>📜 Machine Learning Specialization - Coursera</li>
-    <li>📜 React Developer Certification - (Add certification provider)</li>
-    <li>📜 AWS Certified Developer - Associate</li>
   </ul>
 </details>
 
@@ -72,73 +70,73 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ZamiGo 3D Market</h3>
+      <h3 align="center">Moussey Digital dictionary</h3>
       <div align="center">
         <a href="https://zamigo.tech" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/zamigo-preview.png" width="100%" alt="ZamiGo 3D Market"/>
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/place-de-la-nation.png" width="100%" alt="Moussey dictionary"/>
         </a>
         <p>
-          <a href="https://github.com/adoumouangnamouemmanuel/zamigo" target="_blank">
+          <a href="https://github.com/adoumouangnamouemmanuel/moussey-french-translator" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
           </a>
-          <a href="https://zamigo.tech" target="_blank">
+          <a href="https://github.com/adoumouangnamouemmanuel" target="_blank">
             <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p><strong>React, Three.js, Node.js, MongoDB</strong> - A 3D marketplace for digital assets and models with AR preview capabilities.</p>
+        <p><strong>React native, postgreSQL</strong> - A digital dictionary created to preserve Moussey Language and culture.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">AI Image Generator</h3>
+      <h3 align="center">Tchad Education</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/ai-image-preview.png" width="100%" alt="AI Image Generator"/>
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/logo.png" width="100%" alt="AI Image Generator"/>
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/adoumouangnamouemmanuel/Chad-education-system" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p><strong>Python, TensorFlow, Flask, React</strong> - Generate custom images using machine learning models with style transfer capabilities.</p>
+        <p><strong>React, framer motion, MongoDB, NodejS, expressJS, PostgreSQL</strong> - A platform designed to centralized education data and improve education in Tchad.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Personal Blog</h3>
+      <h3 align="center">Card Image Classification Model</h3>
       <div align="center">
-        <a href="https://emmanueladoum.me" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/blog-preview.png" width="100%" alt="Personal Blog"/>
+        <a href="https://github.com/adoumouangnamouemmanuel/Card_image_recognition_image" target="_blank">
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/place-de-la-nation.png" width="100%" alt="Personal Blog"/>
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/adoumouangnamouemmanuel/Card_image_recognition_image" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
           </a>
           <a href="https://emmanueladoum.me" target="_blank">
             <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p><strong>Next.js, Tailwind CSS, Markdown</strong> - My personal blog where I write about tech, AI, and software development.</p>
+        <p><strong>Python, Pytorch</strong> A deeplearning model to recognize cards </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
+      <h3 align="center">Cancer Model Using Differential Equations</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/ecommerce-preview.png" width="100%" alt="E-Commerce Platform"/>
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/logo.png" width="100%" alt="E-Commerce Platform"/>
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/adoumouangnamouemmanuel/tumor_model_differential_equations" target="_blank">
             <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
           </a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
           </a>
         </p>
-        <p><strong>React, Node.js, Express, MongoDB</strong> - A full-featured e-commerce platform with payment processing and inventory management.</p>
+        <p><strong>React, Next Js, Framer Motion</strong> - Website designed to solve cancer using differential equations and matlab</p>
       </div>
     </td>
   </tr>
