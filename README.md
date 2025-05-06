@@ -1,47 +1,453 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Adoum</h1>
-<h3 align="center">A passionate frontend developer and AI enthusiast from Chad.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Adoum;Frontend+Developer;AI+Enthusiast;Machine+Learning+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://emmanueladoum.me"><img src="https://img.shields.io/badge/Website-emmanueladoum.me-4F46E5?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+    <a href="https://zamigo.tech"><img src="https://img.shields.io/badge/Portfolio-zamigo.tech-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  
+  <p>
+    <a href="https://twitter.com/adoumouangnamou"><img src="https://img.shields.io/twitter/follow/adoumouangnamou?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+    <a href="https://github.com/adoumouangnamouemmanuel"><img src="https://img.shields.io/github/followers/adoumouangnamouemmanuel?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adoumouangnamouemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="adoumouangnamouemmanuel" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adoumouangnamouemmanuel&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adoumouangnamouemmanuel" alt="adoumouangnamouemmanuel" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/adoumouangnamou" target="blank"><img src="https://img.shields.io/twitter/follow/adoumouangnamou?logo=twitter&style=for-the-badge" alt="adoumouangnamou" /></a> </p>
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=adoumouangnamouemmanuel&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats" />
+</div>
 
-- 🔭 I’m currently working on [ZamiGo 3D Market](Link here)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🌱 I’m currently learning **Machine Learning and Software Develpment.**
+<div style="border-radius:10px; overflow:hidden; background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(34, 197, 94, 0.1) 100%); border: 1px solid rgba(99, 102, 241, 0.2); padding: 20px; margin-bottom: 20px;">
 
-- 👯 I’m looking to collaborate on [ZamiGo 3D Market](Link here)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=60&section=header&text=Passionate%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Thinker&fontSize=20&fontColor=FFFFFF&animation=fadeIn" alt="About Me Header" width="100%" />
+</div>
 
-- 👨‍💻 All of my projects are available at [zamigo.tech](zamigo.tech)
+<div style="display:flex; justify-content:center; margin:20px 0;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px; margin-right:20px;" alt="Coding GIF" />
+  <div>
+    <h3 style="color:#6366F1; margin-top:0;">💫 <em>"Feed myself with code rather than food."</em></h3>
+    <p style="font-size:16px; line-height:1.6;">
+      I'm a passionate frontend developer and AI enthusiast from Chad, dedicated to creating innovative solutions that make a difference. With a strong foundation in web technologies and a growing expertise in machine learning, I strive to bridge the gap between cutting-edge technology and practical applications.
+    </p>
+    <p style="font-size:16px; line-height:1.6;">
+      My journey in tech is driven by curiosity and a desire to solve complex problems. I believe in the power of technology to transform lives and am committed to creating accessible, user-friendly applications that address real-world challenges.
+    </p>
+  </div>
+</div>
 
-- 📝 I regularly write articles on [emmanueladoum.me](emmanueladoum.me)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 25px;">
+  <div style="background-color: rgba(99, 102, 241, 0.1); border-radius: 10px; padding: 20px; border-left: 4px solid #6366F1; height: 100%;">
+    <h3 style="color:#6366F1; margin-top:0; text-align: center;">🚀 Current Focus</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #6366F1; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🔭</span>
+        Building <b>ZamiGo 3D Market</b>, a platform for 3D assets
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #6366F1; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🌱</span>
+        Advancing my skills in <b>Machine Learning</b> and <b>Software Architecture</b>
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #6366F1; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">📝</span>
+        Writing technical articles on <a href="https://emmanueladoum.me">my blog</a>
+      </li>
+      <li style="display: flex; align-items: center;">
+        <span style="background-color: #6366F1; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🤝</span>
+        Open to collaborations on innovative projects
+      </li>
+    </ul>
+  </div>
+  
+  <div style="background-color: rgba(34, 197, 94, 0.1); border-radius: 10px; padding: 20px; border-left: 4px solid #22C55E; height: 100%;">
+    <h3 style="color:#22C55E; margin-top:0; text-align: center;">💡 Expertise</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #22C55E; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">💻</span>
+        Frontend Development with React & TypeScript
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #22C55E; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🧠</span>
+        AI/ML with Python, TensorFlow & PyTorch
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #22C55E; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">📱</span>
+        Mobile App Development with React Native
+      </li>
+      <li style="display: flex; align-items: center;">
+        <span style="background-color: #22C55E; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🎨</span>
+        UI/UX Design with Figma & Adobe Creative Suite
+      </li>
+    </ul>
+  </div>
+  
+  <div style="background-color: rgba(234, 88, 12, 0.1); border-radius: 10px; padding: 20px; border-left: 4px solid #EA580C; height: 100%;">
+    <h3 style="color:#EA580C; margin-top:0; text-align: center;">🌟 Values</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #EA580C; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🔍</span>
+        Attention to detail and clean code
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #EA580C; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🧩</span>
+        Creative problem-solving
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #EA580C; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🤓</span>
+        Continuous learning and improvement
+      </li>
+      <li style="display: flex; align-items: center;">
+        <span style="background-color: #EA580C; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🤝</span>
+        Collaborative teamwork
+      </li>
+    </ul>
+  </div>
+  
+  <div style="background-color: rgba(79, 70, 229, 0.1); border-radius: 10px; padding: 20px; border-left: 4px solid #4F46E5; height: 100%;">
+    <h3 style="color:#4F46E5; margin-top:0; text-align: center;">🎯 Goals</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #4F46E5; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🏆</span>
+        Contribute to open-source AI projects
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #4F46E5; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">📚</span>
+        Share knowledge through tutorials and workshops
+      </li>
+      <li style="margin-bottom: 12px; display: flex; align-items: center;">
+        <span style="background-color: #4F46E5; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🌐</span>
+        Build solutions that positively impact communities
+      </li>
+      <li style="display: flex; align-items: center;">
+        <span style="background-color: #4F46E5; color: white; border-radius: 50%; width: 24px; height: 24px; display: inline-flex; align-items: center; justify-content: center; margin-right: 10px;">🚀</span>
+        Launch innovative products that solve real problems
+      </li>
+    </ul>
+  </div>
+</div>
 
-- 💬 Ask me about **React or Python**
+<div align="center" style="margin-top: 25px;">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,nodejs,tensorflow,figma,aws&theme=light" alt="Skills" />
+</div>
 
-- 📫 How to reach me **emmanuel.ouangnamou@gmail.com**
+<div align="center" style="margin-top: 20px;">
+  <a href="https://emmanueladoum.me"><img src="https://img.shields.io/badge/Read%20My%20Blog-4F46E5?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://zamigo.tech"><img src="https://img.shields.io/badge/View%20My%20Projects-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA580C?style=for-the-badge&logo=mailgun&logoColor=white" alt="Hire Me" /></a>
+</div>
 
-- 📄 Know about my experiences [resume](resume)
+</div>
 
-- ⚡ Fun fact **Feed myself with code rather than food.**
+<details>
+  <summary><h3>🎓 Education & Certifications</h3></summary>
+  <ul>
+    <li>🎓 Bachelor's in Computer Science (Add your university)</li>
+    <li>📜 Machine Learning Specialization - Coursera</li>
+    <li>📜 React Developer Certification - (Add certification provider)</li>
+    <li>📜 AWS Certified Developer - Associate</li>
+  </ul>
+</details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/adoumouangnamouemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adoumouangnamouemmanuel" height="30" width="40" /></a>
-<a href="https://twitter.com/adoumouangnamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adoumouangnamou" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ouang-namou-emmanuel-adoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouang-namou-emmanuel-adoum" height="30" width="40" /></a>
-<a href="https://kaggle.com/emmanueladoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emmanueladoum" height="30" width="40" /></a>
-<a href="https://fb.com/adoumouangnamouemmanuel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adoumouangnamouemmanuel1" height="30" width="40" /></a>
-<a href="https://instagram.com/adoumouangnamouemmanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adoumouangnamouemmanuel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emmanuelouangnamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emmanuelouangnamou" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emmanueladoum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emmanueladoum" height="30" width="40" /></a>
-</p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ZamiGo 3D Market</h3>
+      <div align="center">
+        <a href="https://zamigo.tech" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/zamigo-preview.png" width="100%" alt="ZamiGo 3D Market"/>
+        </a>
+        <p>
+          <a href="https://github.com/adoumouangnamouemmanuel/zamigo" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
+          </a>
+          <a href="https://zamigo.tech" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>React, Three.js, Node.js, MongoDB</strong> - A 3D marketplace for digital assets and models with AR preview capabilities.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI Image Generator</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/ai-image-preview.png" width="100%" alt="AI Image Generator"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>Python, TensorFlow, Flask, React</strong> - Generate custom images using machine learning models with style transfer capabilities.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Blog</h3>
+      <div align="center">
+        <a href="https://emmanueladoum.me" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/blog-preview.png" width="100%" alt="Personal Blog"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
+          </a>
+          <a href="https://emmanueladoum.me" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>Next.js, Tailwind CSS, Markdown</strong> - My personal blog where I write about tech, AI, and software development.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">E-Commerce Platform</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/gist/adoumouangnamouemmanuel/your-gist-id/raw/ecommerce-preview.png" width="100%" alt="E-Commerce Platform"/>
+        </a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+          </a>
+        </p>
+        <p><strong>React, Node.js, Express, MongoDB</strong> - A full-featured e-commerce platform with payment processing and inventory management.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adoumouangnamouemmanuel&show_icons=true&locale=en&layout=compact" alt="adoumouangnamouemmanuel" /></p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&locale=en" alt="adoumouangnamouemmanuel" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="200" alt="Emmanuel's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoumouangnamouemmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="Emmanuel's Top Languages"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&" alt="adoumouangnamouemmanuel" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&theme=tokyonight&hide_border=true&background=0D1117" alt="Emmanuel's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adoumouangnamouemmanuel&theme=discord&no-frame=true&column=7&row=1" alt="Emmanuel's GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adoumouangnamouemmanuel&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Emmanuel's Activity Graph"/>
+</div>
+
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
+
+<details open>
+  <summary><h3>💻 Programming Languages</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  </div>
+</details>
+
+<details open>
+  <summary><h3>🌐 Frontend Development</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>⚙️ Backend Development</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>📱 Mobile App Development</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>🧠 AI & Machine Learning</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>🗄️ Databases & Cloud Hosting</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Vercel-  alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>🔧 DevOps & Tools</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </div>
+</details>
+
+<details>
+  <summary><h3>🎨 Design Tools</h3></summary>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
+    <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch"/>
+    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+  </div>
+</details>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/ouang-namou-emmanuel-adoum" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/adoumouangnamou" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/adoumouangnamouemmanuel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codepen.io/adoumouangnamouemmanuel" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+  <a href="https://kaggle.com/emmanueladoum" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://fb.com/adoumouangnamouemmanuel1" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/adoumouangnamouemmanuel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/emmanuelouangnamou" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.hackerrank.com/emmanueladoum" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</div>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Neural Network from Scratch](https://emmanueladoum.me/neural-network-from-scratch)
+- [The Future of Web Development: What to Expect in 2023](https://emmanueladoum.me/future-web-dev-2023)
+- [Optimizing React Applications for Performance](https://emmanueladoum.me/react-performance)
+- [Getting Started with TensorFlow: A Beginner's Guide](https://emmanueladoum.me/tensorflow-beginners-guide)
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://emmanueladoum.me">
+    <img src="https://img.shields.io/badge/Read%20More%20Posts-4F46E5?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read More"/>
+  </a>
+</div>
+
+## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@adoumouangnamouemmanuel/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" height="400"/>
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc4vkpqgpnzbjduh4b52uockri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adoumouangnamouemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Emmanuel%20Adoum-6366F1" alt="Made with love" />
+</div>
+
+<!-- 
+  Note: To create the GitHub Snake Animation, you'll need to set up a GitHub Action.
+  Create a .github/workflows/snake.yml file with the appropriate configuration.
+  
+  For the blog post list, you can use a GitHub Action to automatically update your README with your latest blog posts.
+  Check out: https://github.com/gautamkrishnar/blog-post-workflow
+-->
