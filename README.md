@@ -90,7 +90,7 @@
       <h3 align="center">Tchad Education</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/logo.png" width="100%" alt="AI Image Generator"/>
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/place-de-la-nation.png" width="100%" alt="AI Image Generator"/>
         </a>
         <p>
           <a href="https://github.com/adoumouangnamouemmanuel/Chad-education-system" target="_blank">
@@ -126,7 +126,7 @@
       <h3 align="center">Cancer Model Using Differential Equations</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/logo.png" width="100%" alt="E-Commerce Platform"/>
+          <img src="https://github.com/adoumouangnamouemmanuel/Chad-education-system/blob/main/public/images/place-de-la-nation.png" width="100%" alt="E-Commerce Platform"/>
         </a>
         <p>
           <a href="https://github.com/adoumouangnamouemmanuel/tumor_model_differential_equations" target="_blank">
