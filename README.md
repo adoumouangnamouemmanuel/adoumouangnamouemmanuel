@@ -351,7 +351,7 @@
   <br>
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Emmanuel%20Adoum-6366F1" alt="Made with love" />
 </div>
-
+![](https://hit.yhype.me/github/profile?account_id=125479958)
 <!-- 
   Note: To create the GitHub Snake Animation, you'll need to set up a GitHub Action.
   Create a .github/workflows/snake.yml file with the appropriate configuration.
