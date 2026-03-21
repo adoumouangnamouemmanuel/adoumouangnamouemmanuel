@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Adoum;Frontend+Developer;AI+Enthusiast;Machine+Learning+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
   
   <p>
-    <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Website-emmanueladoum.me-4F46E5?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
+    <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Website-emmanueladoum.com-4F46E5?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" /></a>
     <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/emmanueladoum.com-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
