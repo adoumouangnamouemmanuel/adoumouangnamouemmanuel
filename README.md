@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E63,100:14B8A6&height=190&section=header&text=Emmanuel%20Adoum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Intelligent%20Technology&descAlignY=60&descSize=17" width="100%" alt="Emmanuel Adoum — Software, Systems, Intelligent Technology" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E63,100:14B8A6&height=190&section=header&text=Emmanuel%20Adoum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Intelligent%20Technology&descAlignY=60&descSize=17" width="100%" alt="Emmanuel Adoum: Software, Systems, Intelligent Technology" />
 
 <a href="https://emmanueladoum.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=55&lines=Building+useful+software.;Understanding+the+systems+underneath.;Engineering+with+African+contexts+in+mind." alt="Building useful software. Understanding the systems underneath. Engineering with African contexts in mind." /></a>
 
@@ -120,18 +120,18 @@ My experience varies by tool and comes from professional work, projects, and ong
 
 I’m interested in understanding what happens beneath frameworks and in applying computing to problems that matter locally.
 
-- **[Computer from Scratch](https://github.com/adoumouangnamouemmanuel/computer-from-scratch)** — a learning project working from digital logic toward computer architecture.
-- **[Moussey–French Translator](https://github.com/adoumouangnamouemmanuel/moussey-french-translator)** — exploring language technology for Moussey, alongside text corpus work.
-- **[Ghana Road Transport Network](https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026)** — a collaborative graph-algorithm project with Java, Spring Boot, and an interactive web interface.
+- **[Computer from Scratch](https://github.com/adoumouangnamouemmanuel/computer-from-scratch)**: a learning project working from digital logic toward computer architecture.
+- **[Moussey-French Translator](https://github.com/adoumouangnamouemmanuel/moussey-french-translator)**: exploring language technology for Moussey, alongside text corpus work.
+- **[Ghana Road Transport Network](https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026)**: a collaborative graph-algorithm project with Java, Spring Boot, and an interactive web interface.
 
 ## Activity & consistency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=2DD4BF&text_color=CBD5E1" height="165" alt="GitHub activity statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&hide_border=true&bg_color=0B1220&title_color=2DD4BF&icon_color=2DD4BF&text_color=CBD5E1" height="165" alt="GitHub activity statistics" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adoumouangnamouemmanuel&bg_color=0B1220&color=CBD5E1&line=2DD4BF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+[View my contribution calendar on GitHub](https://github.com/adoumouangnamouemmanuel#year-list-container)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" />
