@@ -1,127 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E40AF,100:3B82F6&height=190&section=header&text=Emmanuel%20Adoum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Intelligent%20Technology&descAlignY=60&descSize=17" width="100%" alt="Emmanuel Adoum: Software, Systems, Intelligent Technology" />
+<img src="assets/header.svg" width="100%" alt="Emmanuel Adoum. Software engineering, backend systems and applied AI. From Chad, building with purpose." />
 
-<a href="https://emmanueladoum.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=55&lines=Building+useful+software.;Understanding+the+systems+underneath.;Engineering+with+African+contexts+in+mind." alt="Building useful software. Understanding the systems underneath. Engineering with African contexts in mind." /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=55&lines=From+an+idea+to+a+working+system.;APIs.+Data.+Workflows.+Reliability.;Building+technology+that+serves+people." alt="From an idea to a working system. APIs, data, workflows, reliability. Building technology that serves people." />
 
-**Computer Engineering · Ashesi University · Mastercard Foundation Scholar**
+**Computer Engineering at Ashesi University · Mastercard Foundation Scholar**
 
-**Claude Campus Ambassador · President, Mastercard Foundation Scholars Community at Ashesi**
+**President, Mastercard Foundation Scholars Community at Ashesi · Claude Campus Ambassador**
 
-From Chad, building and learning in Ghana.
+**Meilleur Bachelier du Tchad 2022 · Ranked first nationally**
 
-**1st nationally in Chad’s 2022 Baccalaureate · Meilleur Bachelier du Tchad 2022**
+<a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="https://www.linkedin.com/in/emmanueladoum"><img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emmanuel" /></a>
 
-<a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/emmanueladoum"><img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[Experience](#engineering-experience) · [Products](#selected-products) · [Leadership](#leadership--distinction) · [Join CBC Ashesi](#build-with-us-at-cbc-ashesi)
 
 </div>
 
-## A little about me
+## About me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Animated illustration of a developer at work" />
+I’m **Emmanuel Adoum**, a Chadian Computer Engineering student at Ashesi University in Ghana, graduating in **May 2027**. My interests sit where software, data, and intelligent systems meet.
 
-I’m **Emmanuel**, a Computer Engineering student interested in software engineering, backend systems, applied AI, and embedded computing.
+I’ve worked on lending workflows, risk intelligence, laboratory onboarding, and finance automation. In my own projects, I build tools for campus life, education, and the practical work of staying organized.
 
-I like working through the entire problem: understanding the people who need a product, designing its data and APIs, implementing the workflows, and examining what happens when things fail.
-
-My goal is to become an exceptionally capable engineer and build reliable, useful technology that contributes to Africa’s technological development.
-
-- **Building:** student platforms, operational tools, and education software.
-- **Deepening:** backend architecture, security, operating systems, networking, and embedded systems.
-- **Exploring:** low-resource language technology and intelligent systems.
-
-<br clear="right" />
+I care about understanding a system beneath its interface: how its data is modeled, how access is enforced, what happens when requests fail, and how someone else can maintain it. My goal is to build reliable, useful technology and contribute to Africa’s technological development.
 
 ## Engineering experience
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="180"><img src="assets/logos/revna.svg" width="130" alt="Revna Biosciences" /><br /><strong>Revna Biosciences</strong></td>
-<td align="center" width="180"><img src="assets/logos/mtn.svg" width="90" alt="MTN Ghana" /><br /><strong>MTN Ghana</strong></td>
-<td align="center" width="180"><img src="assets/logos/nestle.png" width="95" alt="Nestlé NBS" /><br /><strong>Nestlé NBS</strong></td>
-<td align="center" width="180"><img src="assets/logos/affinity.png" width="140" alt="Affinity Africa" /><br /><strong>Affinity Africa</strong></td>
+<td align="center" width="170"><img src="assets/logos/revna.svg" width="125" alt="Revna Biosciences" /><br /><strong>Revna Biosciences</strong></td>
+<td align="center" width="170"><img src="assets/logos/affinity.png" width="140" alt="Affinity Africa" /><br /><strong>Affinity Africa</strong></td>
+<td align="center" width="170"><img src="assets/logos/mtn.svg" width="85" alt="MTN Ghana" /><br /><strong>MTN Ghana</strong></td>
+<td align="center" width="170"><img src="assets/logos/nestle.png" width="90" alt="Nestlé Business Services" /><br /><strong>Nestlé NBS</strong></td>
 </tr>
 </table>
 
-</div>
-
-| Context | Work |
+| Organization & role | Selected contribution |
 | :--- | :--- |
-| **Affinity Africa** | Backend engineering on a loan automation platform, using Python, FastAPI, and MongoDB. |
-| **Nestlé NBS** | Finance automation. |
-| **MTN Ghana** | Risk intelligence and quantitative analysis. |
-| **Student communities** | Technical leadership, product development, and mathematics/programming tutoring. |
+| **Ashesi Innovation Lab × Revna Biosciences**<br />Project Manager & Backend Engineer<br />Aug - Sep 2026 | Led cross-functional delivery of **ROBIN**, a role-aware onboarding platform for a laboratory, research, and biobank ecosystem. Designed backend services with **FastAPI and PostgreSQL**, covering approvals, documents, permissions, and auditability. |
+| **Affinity Africa**<br />Backend Engineering Intern<br />Jul - Aug 2026 | Co-developed a loan automation backend with **FastAPI and MongoDB**. Designed APIs and data models for lending stages, assessments, documents, decisions, SLAs, and audit history; collaborated on API contracts and handover. |
+| **MTN Ghana**<br />Quantitative & Predictive Risk Modelling Intern<br />Technical Lead & System Architect<br />May - Jul 2026 | Led technical delivery in a four-person team building a risk intelligence platform. Designed ingestion across **18+ news feeds** and worked on NLP risk signals, forecasting, stress testing, and Monte Carlo simulation. |
+| **Nestlé Business Services Accra**<br />Record-to-Report & Automation Intern<br />Jun - Aug 2025 | Automated KRI and OLI reporting with **Power BI, Excel, Power Automate, and Python**. Built reusable ETL scripts and templates, documented workflows, and trained colleagues for handover. |
 
 ## Selected products
 
-I build tools around practical needs: campus commerce, student support, application management, and school administration.
+Real interfaces, practical problems, and the engineering behind them. Screenshots show the supplied interface previews; they do not imply that every planned feature is complete.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Hilltop
-**Campus commerce, with trust built into the workflow**
+<a href="https://hilltop.lumavok.com"><img src="assets/projects/hilltop.webp" width="100%" alt="Hilltop marketplace homepage with campus categories, product search, and student listings" /></a>
 
-A marketplace for Ashesi students to discover listings, message sellers, and reserve items for pickup.
+### Hilltop
+**Campus commerce with trust in the workflow**
 
-**Engineering focus:** school-email verification, marketplace and admin apps, shared packages, configurable rules, and database permissions.
+A marketplace for Ashesi students to discover listings, contact sellers, and reserve items for pickup.
 
-**Next.js · TypeScript · Supabase · Cloudflare**
+**Engineering:** marketplace and admin applications, shared packages, configurable platform rules, school-email verification, and database permissions.
 
-<a href="https://hilltop.lumavok.com"><img src="https://img.shields.io/badge/Visit_Hilltop-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Hilltop" /></a>
-<a href="https://github.com/adoumouangnamouemmanuel/hilltop"><img src="https://img.shields.io/badge/Source-1E293B?style=flat-square&logo=github&logoColor=white" alt="Hilltop source code" /></a>
+**Stack:** Next.js · TypeScript · Supabase · Cloudflare
+
+[Visit Hilltop ↗](https://hilltop.lumavok.com) · [Source](https://github.com/adoumouangnamouemmanuel/hilltop) · [Reliability notes](https://github.com/adoumouangnamouemmanuel/hilltop/blob/main/docs/RELIABILITY-REMEDIATION.md)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 · Freshers Hub
-**A clearer path to campus support**
+<img src="assets/projects/freshers-hub.webp" width="100%" alt="Freshers Hub campus platform sign-in interface with Ashesi branding and student support illustrations" />
 
-A platform I co-founded and lead development on, connecting students with campus offices, appointments, and support services.
+### Freshers Hub
+**Campus information and support in one place**
 
-**Engineering focus:** web and mobile clients, backend APIs, staff workspaces, role-based access, and database-enforced access boundaries.
+A platform I **co-founded and lead development on**, connecting students with campus offices, appointments, support services, and community resources.
 
-**TypeScript · Web & mobile · PostgreSQL**
+**Engineering:** React Native and web clients, Node.js APIs, PostgreSQL workflows, OTP authentication, staff workspaces, and access controls.
 
-<img src="https://img.shields.io/badge/My_role-Co--founder_%26_Development_Lead-2563EB?style=flat-square" alt="Co-founder and Development Lead" />
-<img src="https://img.shields.io/badge/Source-Private-334155?style=flat-square&logo=github&logoColor=white" alt="Private source code" />
+**Stack:** TypeScript · React Native/Expo · Node.js · PostgreSQL
+
+**Role:** Co-founder & Development Lead<br />
+**Source:** Private · Pilot acceptance and deployment work remain in progress.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 · GradMap
-**From application overload to an organized workspace**
+<a href="https://gradmap.emmanueladoum.com"><img src="assets/projects/gradmap.webp" width="100%" alt="GradMap sign-in page with an application workspace invitation and email or Google sign-in" /></a>
 
-A graduate-school and scholarship application workspace for tracking programs, deadlines, tasks, and document versions.
+### GradMap
+**A clearer view of the next chapter**
 
-**Engineering focus:** private document access, multi-factor authentication, database ownership rules, and reminder workflows.
+A workspace for organizing graduate-school and scholarship applications, programs, deadlines, tasks, and document versions.
 
-**Next.js · TypeScript · Supabase · PWA**
+**Engineering:** private file access, multi-factor authentication boundaries, ownership policies, document workflows, and reminder scheduling.
 
-<a href="https://gradmap.emmanueladoum.com"><img src="https://img.shields.io/badge/Visit_GradMap-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit GradMap" /></a>
-<a href="https://github.com/adoumouangnamouemmanuel/gradmap"><img src="https://img.shields.io/badge/Source-1E293B?style=flat-square&logo=github&logoColor=white" alt="GradMap source code" /></a>
+**Stack:** Next.js · TypeScript · Supabase · PWA
+
+[Visit GradMap ↗](https://gradmap.emmanueladoum.com) · [Source](https://github.com/adoumouangnamouemmanuel/gradmap) · [Architecture](https://github.com/adoumouangnamouemmanuel/gradmap/blob/master/docs/ARCHITECTURE.md) · [Tests](https://github.com/adoumouangnamouemmanuel/gradmap/tree/master/supabase/tests)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 · EduTrack Africa
-**School records that do not depend on internet access**
+<img src="assets/projects/edutrack-africa.webp" width="100%" alt="EduTrack Africa French-language school staff sign-in interface with school code, username, and password fields" />
 
-A French-first, offline-first Windows product for schools in Chad, centered on academic records, term results, and printable bulletins.
+### EduTrack Africa
+**School administration for local realities**
 
-**Engineering focus:** a local API, deterministic domain calculations, desktop delivery, and SQLite persistence. Currently in foundation development.
+A French-first, offline-first Windows product for schools in Chad, focused on academic records, term results, and printable bulletins.
 
-**React · Tauri · Fastify · SQLite**
+**Engineering:** a local API, separate domain calculations, SQLite persistence, and a desktop shell. **Currently in foundation development.**
 
-<a href="https://github.com/adoumouangnamouemmanuel/sms"><img src="https://img.shields.io/badge/Explore_the_build-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore EduTrack Africa source code" /></a>
-<img src="https://img.shields.io/badge/Stage-Foundation-334155?style=flat-square" alt="Foundation development" />
+**Stack:** React · Tauri · Fastify · SQLite
+
+[Explore the build](https://github.com/adoumouangnamouemmanuel/sms) · [Architecture decisions](https://github.com/adoumouangnamouemmanuel/sms/tree/main/docs/decisions) · [Tests](https://github.com/adoumouangnamouemmanuel/sms/tree/main/tests)
 
 </td>
 </tr>
@@ -131,53 +124,64 @@ A French-first, offline-first Windows product for schools in Chad, centered on a
 
 | Role or distinction | Context |
 | :--- | :--- |
-| **President, Mastercard Foundation Scholars Community** | Current president at Ashesi University. |
-| **Claude Campus Ambassador** | Current ambassador at Ashesi University, building a student community through the Claude Builder Club. |
-| **Former President, International Students Association** | Served as president at Ashesi University. |
-| **Meilleur Bachelier du Tchad 2022** | Ranked first nationally in Chad’s 2022 Baccalaureate. |
+| **President, Mastercard Foundation Scholars Community at Ashesi** | Current president, representing scholars and supporting welfare, academic support, and council initiatives. |
+| **Claude Campus Ambassador at Ashesi** | Current ambassador, growing a community of students learning and building through CBC Ashesi. |
+| **Former President, International Students Association** | Jan 2025 - Jan 2026. Represented 400+ international students at Ashesi. |
+| **Former Lead, Ashesi AI Club** | Jan 2025 - Sep 2026. Led AI community initiatives and supported student learning. |
+| **Mathematics & programming tutor** | Supporting students in calculus, programming, object-oriented design, and algorithms. |
+
+**Selected distinctions:** National Best Baccalaureate Student, Chad (2022) · 1st place, Ashesi Career Fair Programming Competition (2026) · Winning team, Nestlé Ghana Sentiment Analysis Competition (2024) · 1st place, programming competition in Niamey, Niger (2023).
 
 ### Build with us at CBC Ashesi
 
-New to AI or already building? Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, and build alongside other students.
+**New to AI or already building? You are welcome here.**
 
-<a href="https://www.jotform.com/253555944387168"><img src="https://img.shields.io/badge/Join_CBC_Ashesi-Sign_up-2563EB?style=for-the-badge&logo=claude&logoColor=white" alt="Sign up for the Claude Builder Club at Ashesi University" /></a>
+Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, meet other builders, and develop practical projects together.
 
-[Register for CBC Ashesi](https://www.jotform.com/253555944387168)
+<a href="https://www.jotform.com/253555944387168"><img src="https://img.shields.io/badge/Join_CBC_Ashesi-Sign_up-2563EB?style=for-the-badge&logo=claude&logoColor=white" alt="Sign up for Claude Builder Club at Ashesi University" /></a>
 
-## Tools I work with
+[Register for CBC Ashesi →](https://www.jotform.com/253555944387168)
+
+## Technical toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,python,fastapi,react,nextjs,postgres,mongodb,c,git&perline=6&theme=dark" alt="Java, Spring, Node.js, TypeScript, Python, FastAPI, React, Next.js, PostgreSQL, MongoDB, C, Git" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,nodejs,react,nextjs,postgres,mongodb,docker,git&perline=6&theme=dark" alt="Python, FastAPI, Java, Spring, TypeScript, Node.js, React, Next.js, PostgreSQL, MongoDB, Docker, and Git" />
 
 </div>
 
-My experience varies by tool and comes from professional work, projects, and ongoing study. I also work with React Native/Expo, STM32, ESP32, Power BI, and Power Automate.
+| Area | Technologies used across work, projects, and learning |
+| :--- | :--- |
+| **Backend & data** | Python, FastAPI, Java, Spring Boot, Node.js, SQL, PostgreSQL, MongoDB |
+| **Web & mobile** | TypeScript, React, Next.js, React Native/Expo |
+| **AI & analytics** | NLP, PyTorch, scikit-learn, pandas, NumPy, forecasting, Monte Carlo simulation |
+| **Systems & automation** | C, STM32, ESP32, Docker, Linux, Power BI, Power Automate |
 
-## Beyond the product layer
+## Learning & exploration
 
-I’m interested in understanding what happens beneath frameworks and in applying computing to problems that matter locally.
+**Currently deepening:** backend architecture and security, data structures and algorithms, operating systems, networking, and embedded systems.
 
-- **[Computer from Scratch](https://github.com/adoumouangnamouemmanuel/computer-from-scratch)**: a learning project working from digital logic toward computer architecture.
-- **[Moussey-French Translator](https://github.com/adoumouangnamouemmanuel/moussey-french-translator)**: exploring language technology for Moussey, alongside text corpus work.
-- **[Ghana Road Transport Network](https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026)**: a collaborative graph-algorithm project with Java, Spring Boot, and an interactive web interface.
+- **[Computer from Scratch](https://github.com/adoumouangnamouemmanuel/computer-from-scratch):** building understanding from digital logic toward computer architecture.
+- **[Moussey-French language technology](https://github.com/adoumouangnamouemmanuel/moussey-french-translator):** corpus work, a digital dictionary, and prototype translation workflows for a low-resource African language.
+- **[Ghana Road Transport Network](https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026):** a collaborative graph-algorithm project with Java, Spring Boot, and an interactive interface.
 
 ## Activity & consistency
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" height="165" alt="GitHub activity statistics" />
+<img src="assets/generated/github-stats.svg" width="100%" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub contribution streak" />
 
 [View my contribution calendar on GitHub](https://github.com/adoumouangnamouemmanuel#year-list-container)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake tracing GitHub contributions" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake tracing my GitHub contribution calendar" />
 </picture>
 
 **Understand deeply. Build thoughtfully. Keep improving.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E40AF,100:3B82F6&height=100&section=footer" width="100%" alt="" />
+[Explore my work](https://emmanueladoum.com) · [Connect on LinkedIn](https://www.linkedin.com/in/emmanueladoum) · [Get in touch](mailto:emmanuel.ouangnamou@gmail.com)
 
 </div>
