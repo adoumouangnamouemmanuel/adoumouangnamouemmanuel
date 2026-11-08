@@ -181,8 +181,11 @@ Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, 
 
 <div align="center">
 
-<img src="assets/generated/github-stats.svg" width="48%" height="165" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" height="165" alt="GitHub contribution streak" />
+<img src="assets/generated/github-stats.svg" width="100%" height="320" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" height="320" alt="GitHub contribution streak" />
 
 [View my contribution calendar on GitHub](https://github.com/adoumouangnamouemmanuel#year-list-container)
 
