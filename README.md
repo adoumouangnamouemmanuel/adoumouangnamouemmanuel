@@ -13,7 +13,7 @@ From Chad, building and learning in Ghana.
 **1st nationally in Chad’s 2022 Baccalaureate · Meilleur Bachelier du Tchad 2022**
 
 <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ouang-namou-emmanuel-adoum"><img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/emmanueladoum"><img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -135,6 +135,14 @@ A French-first, offline-first Windows product for schools in Chad, centered on a
 | **Claude Campus Ambassador** | Current ambassador at Ashesi University, building a student community through the Claude Builder Club. |
 | **Former President, International Students Association** | Served as president at Ashesi University. |
 | **Meilleur Bachelier du Tchad 2022** | Ranked first nationally in Chad’s 2022 Baccalaureate. |
+
+### Build with us at CBC Ashesi
+
+New to AI or already building? Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, and build alongside other students.
+
+<a href="https://www.jotform.com/253555944387168"><img src="https://img.shields.io/badge/Join_CBC_Ashesi-Sign_up-2563EB?style=for-the-badge&logo=claude&logoColor=white" alt="Sign up for the Claude Builder Club at Ashesi University" /></a>
+
+[Register for CBC Ashesi](https://www.jotform.com/253555944387168)
 
 ## Tools I work with
 
