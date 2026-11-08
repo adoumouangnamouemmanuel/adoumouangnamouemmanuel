@@ -26,27 +26,21 @@ def render(user, updated):
     calendar = user['contributionsCollection']['contributionCalendar']
     repos = user['repositories']
     values = [
-        ('PUBLIC REPOSITORIES', repos['totalCount']),
-        ('STARS ON LISTED REPOS', sum(r['stargazerCount'] for r in repos['nodes'])),
-        ('FOLLOWERS', user['followers']['totalCount']),
-        ('CONTRIBUTIONS / YEAR', calendar['totalContributions']),
+        ('Public repositories', repos['totalCount']),
+        ('Stars on listed repos', sum(r['stargazerCount'] for r in repos['nodes'])),
+        ('Followers', user['followers']['totalCount']),
+        ('Contributions / year', calendar['totalContributions']),
     ]
-    parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="290" viewBox="0 0 1000 290" role="img" aria-labelledby="title desc">',
-             '<title id="title">GitHub activity</title>',
-             '<desc id="desc">Public repository statistics and the past year contribution calendar. Updated '+html.escape(updated)+'.</desc>',
-             '<rect width="1000" height="290" rx="18" fill="#0b1220"/>',
-             '<g font-family="Arial,sans-serif">']
+    parts = ['<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" role="img" aria-labelledby="title desc">',
+             '<title id="title">GitHub statistics</title>',
+             '<desc id="desc">Public repository statistics. Updated '+html.escape(updated)+'.</desc>',
+             '<rect width="467" height="195" rx="12" fill="#0b1220"/>',
+             '<g font-family="Arial,sans-serif">',
+             '<text x="24" y="30" fill="#60a5fa" font-size="18" font-weight="700">GitHub statistics</text>']
     for i, (label, value) in enumerate(values):
-        x = 30 + i * 245
-        parts.append(f'<text x="{x}" y="48" fill="#60a5fa" font-size="12" letter-spacing="1">{label}</text><text x="{x}" y="89" fill="#f8fafc" font-size="32" font-weight="700">{value:,}</text>')
-    colors = {'NONE':'#1e293b','FIRST_QUARTILE':'#1e40af','SECOND_QUARTILE':'#2563eb','THIRD_QUARTILE':'#60a5fa','FOURTH_QUARTILE':'#bfdbfe'}
-    for col, week in enumerate(calendar['weeks']):
-        for day in week['contributionDays']:
-            row = (datetime.date.fromisoformat(day['date']).weekday() + 1) % 7
-            x, y = 30 + col * 17.6, 120 + row * 17
-            title = html.escape(f"{day['date']}: {day['contributionCount']} contributions")
-            parts.append(f'<rect x="{x:.1f}" y="{y}" width="13" height="13" rx="3" fill="{colors[day["contributionLevel"]]}"><title>{title}</title></rect>')
-    parts.append(f'<text x="30" y="267" fill="#94a3b8" font-size="11">GitHub-reported activity · Rolling year · Updated {html.escape(updated)} UTC</text></g></svg>')
+        x, y = 24 + (i % 2) * 224, 63 + (i // 2) * 57
+        parts.append(f'<text x="{x}" y="{y}" fill="#cbd5e1" font-size="12">{label}</text><text x="{x}" y="{y+27}" fill="#f8fafc" font-size="23" font-weight="700">{value:,}</text>')
+    parts.append(f'<text x="24" y="183" fill="#94a3b8" font-size="10">GitHub-reported activity · {html.escape(updated)} UTC</text></g></svg>')
     return '\n'.join(parts)
 
 
