@@ -6,6 +6,8 @@
 
 **Computer Engineering · Ashesi University · Mastercard Foundation Scholar**
 
+**Current Claude Campus Ambassador at Ashesi University**
+
 From Chad, building and learning in Ghana.
 
 <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -99,12 +101,31 @@ Currently in foundation development, with a local API, a separate domain layer, 
 
 ## Engineering experience
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="180"><img src="assets/logos/revna.svg" width="130" alt="Revna Biosciences" /><br /><strong>Revna Biosciences</strong></td>
+<td align="center" width="180"><img src="assets/logos/mtn.svg" width="90" alt="MTN Ghana" /><br /><strong>MTN Ghana</strong></td>
+<td align="center" width="180"><img src="assets/logos/nestle.png" width="95" alt="Nestlé NBS" /><br /><strong>Nestlé NBS</strong></td>
+<td align="center" width="180"><img src="assets/logos/affinity.png" width="140" alt="Affinity Africa" /><br /><strong>Affinity Africa</strong></td>
+</tr>
+</table>
+
+</div>
+
 | Context | Work |
 | :--- | :--- |
 | **Affinity Africa** | Backend engineering on a loan automation platform, using Python, FastAPI, and MongoDB. |
 | **Nestlé NBS** | Finance automation. |
 | **MTN Ghana** | Risk intelligence and quantitative analysis. |
 | **Student communities** | Technical leadership, product development, and mathematics/programming tutoring. |
+
+## Leadership & community
+
+**Claude Campus Ambassador · Ashesi University**
+
+I help grow a community of students learning and building with AI through the Claude Builder Club at Ashesi.
 
 ## Tools I work with
 
