@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Emmanuel Adoum. Software engineering, backend systems and applied AI. From Chad, building with purpose." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E40AF,100:3B82F6&height=190&section=header&text=Emmanuel%20Adoum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Intelligent%20Technology&descAlignY=60&descSize=17" width="100%" alt="Emmanuel Adoum: Software, Systems, Intelligent Technology" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=55&lines=From+an+idea+to+a+working+system.;APIs.+Data.+Workflows.+Reliability.;Building+technology+that+serves+people." alt="From an idea to a working system. APIs, data, workflows, reliability. Building technology that serves people." />
 
@@ -20,11 +20,15 @@
 
 ## About me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Animated illustration of a developer at work" />
+
 I’m **Emmanuel Adoum**, a Chadian Computer Engineering student at Ashesi University in Ghana, graduating in **May 2027**. My interests sit where software, data, and intelligent systems meet.
 
 I’ve worked on lending workflows, risk intelligence, laboratory onboarding, and finance automation. In my own projects, I build tools for campus life, education, and the practical work of staying organized.
 
 I care about understanding a system beneath its interface: how its data is modeled, how access is enforced, what happens when requests fail, and how someone else can maintain it. My goal is to build reliable, useful technology and contribute to Africa’s technological development.
+
+<br clear="right" />
 
 ## Engineering experience
 
@@ -63,7 +67,9 @@ A marketplace for Ashesi students to discover listings, contact sellers, and res
 
 **Stack:** Next.js · TypeScript · Supabase · Cloudflare
 
-[Visit Hilltop ↗](https://hilltop.lumavok.com) · [Source](https://github.com/adoumouangnamouemmanuel/hilltop) · [Reliability notes](https://github.com/adoumouangnamouemmanuel/hilltop/blob/main/docs/RELIABILITY-REMEDIATION.md)
+<a href="https://hilltop.lumavok.com"><img src="https://img.shields.io/badge/Visit%20Hilltop-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Hilltop" /></a> <a href="https://github.com/adoumouangnamouemmanuel/hilltop"><img src="https://img.shields.io/badge/Source-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
+<a href="https://github.com/adoumouangnamouemmanuel/hilltop/blob/main/docs/RELIABILITY-REMEDIATION.md"><img src="https://img.shields.io/badge/Reliability%20notes-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Reliability notes" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -82,6 +88,8 @@ A platform I **co-founded and lead development on**, connecting students with ca
 **Role:** Co-founder & Development Lead<br />
 **Source:** Private · Pilot acceptance and deployment work remain in progress.
 
+<img src="https://img.shields.io/badge/Source-Private-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Private source code" />
+
 </td>
 </tr>
 <tr>
@@ -98,7 +106,9 @@ A workspace for organizing graduate-school and scholarship applications, program
 
 **Stack:** Next.js · TypeScript · Supabase · PWA
 
-[Visit GradMap ↗](https://gradmap.emmanueladoum.com) · [Source](https://github.com/adoumouangnamouemmanuel/gradmap) · [Architecture](https://github.com/adoumouangnamouemmanuel/gradmap/blob/master/docs/ARCHITECTURE.md) · [Tests](https://github.com/adoumouangnamouemmanuel/gradmap/tree/master/supabase/tests)
+<a href="https://gradmap.emmanueladoum.com"><img src="https://img.shields.io/badge/Visit%20GradMap-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GradMap" /></a> <a href="https://github.com/adoumouangnamouemmanuel/gradmap"><img src="https://img.shields.io/badge/Source-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
+<a href="https://github.com/adoumouangnamouemmanuel/gradmap/blob/master/docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Architecture" /></a> <a href="https://github.com/adoumouangnamouemmanuel/gradmap/tree/master/supabase/tests"><img src="https://img.shields.io/badge/Tests-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Tests" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +124,9 @@ A French-first, offline-first Windows product for schools in Chad, focused on ac
 
 **Stack:** React · Tauri · Fastify · SQLite
 
-[Explore the build](https://github.com/adoumouangnamouemmanuel/sms) · [Architecture decisions](https://github.com/adoumouangnamouemmanuel/sms/tree/main/docs/decisions) · [Tests](https://github.com/adoumouangnamouemmanuel/sms/tree/main/tests)
+<a href="https://github.com/adoumouangnamouemmanuel/sms"><img src="https://img.shields.io/badge/Explore%20the%20build-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore the build" /></a>
+
+<a href="https://github.com/adoumouangnamouemmanuel/sms/tree/main/docs/decisions"><img src="https://img.shields.io/badge/Architecture-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Architecture" /></a> <a href="https://github.com/adoumouangnamouemmanuel/sms/tree/main/tests"><img src="https://img.shields.io/badge/Tests-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Tests" /></a>
 
 </td>
 </tr>
@@ -169,9 +181,8 @@ Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, 
 
 <div align="center">
 
-<img src="assets/generated/github-stats.svg" width="100%" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" alt="GitHub contribution streak" />
+<img src="assets/generated/github-stats.svg" width="48%" height="165" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" height="165" alt="GitHub contribution streak" />
 
 [View my contribution calendar on GitHub](https://github.com/adoumouangnamouemmanuel#year-list-container)
 
