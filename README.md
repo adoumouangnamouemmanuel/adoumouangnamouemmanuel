@@ -1,327 +1,201 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Emmanuel+Adoum;Full+Stack+Developer;AI+Enthusiast;Machine+Learning+Engineer;Creative+Problem+Solver" alt="Typing SVG" />
-  
-  <p>
-    <a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-emmanueladoum.com-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-  
-  <p>
-    <a href="https://twitter.com/adoumouangnamou"><img src="https://img.shields.io/twitter/follow/adoumouangnamou?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-    <a href="https://github.com/adoumouangnamouemmanuel"><img src="https://img.shields.io/github/followers/adoumouangnamouemmanuel?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
-  </p>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adoumouangnamouemmanuel&style=for-the-badge&color=6366F1" alt="Profile Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E40AF,100:3B82F6&height=190&section=header&text=Emmanuel%20Adoum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20%7C%20Systems%20%7C%20Intelligent%20Technology&descAlignY=60&descSize=17" width="100%" alt="Emmanuel Adoum: Software, Systems, Intelligent Technology" />
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&height=55&lines=From+an+idea+to+a+working+system.;APIs.+Data.+Workflows.+Reliability.;Building+technology+that+serves+people." alt="From an idea to a working system. APIs, data, workflows, reliability. Building technology that serves people." />
 
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=adoumouangnamouemmanuel&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats" />
-</div>
+**Computer Engineering at Ashesi University · Mastercard Foundation Scholar**
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+**President, Mastercard Foundation Scholars Community at Ashesi · Claude Campus Ambassador**
 
-<div style="border-radius:10px; overflow:hidden; background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(34, 197, 94, 0.1) 100%); border: 1px solid rgba(99, 102, 241, 0.2); padding: 20px; margin-bottom: 20px;">
+**Meilleur Bachelier du Tchad 2022 · Ranked first nationally**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=60&section=header&text=Passionate%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Thinker&fontSize=20&fontColor=FFFFFF&animation=fadeIn" alt="About Me Header" width="100%" />
-</div>
+<a href="https://emmanueladoum.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+<a href="https://www.linkedin.com/in/emmanueladoum"><img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Emmanuel" /></a>
 
-<div style="display:flex; justify-content:center; margin:20px 0;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px; margin-right:20px;" alt="Coding GIF" />
-  <div>
-    <h3 style="color:#6366F1; margin-top:0;">💫 <em>"Feed myself with code rather than food."</em></h3>
-    <p style="font-size:16px; line-height:1.6;">
-      Emmanuel Adoum is a tech enthusiast from Chad, focused on using innovation to tackle community challenges. With skills in computer science and engineering, he works on projects that improve education and sustainability.
-    </p>
-    <p style="font-size:16px; line-height:1.6;">
-      A strong leader, Emmanuel combines technical expertise with a passion for social impact, aiming to solve real-world problems through creative solutions.
-    </p>
-  </div>
-</div>
-
-<div align="center" style="margin-top: 25px;">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,nodejs,tensorflow,figma,aws&theme=light" alt="Skills" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://emmanueladoum.com/blog"><img src="https://img.shields.io/badge/Read%20My%20Blog-4F46E5?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
-  <a href="https://emmanueladoum.com/projects"><img src="https://img.shields.io/badge/View%20My%20Projects-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" /></a>
-  <a href="mailto:emmanuel.ouangnamou@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
-</div>
+[Experience](#engineering-experience) · [Products](#selected-products) · [Leadership](#leadership--distinction) · [Join CBC Ashesi](#build-with-us-at-cbc-ashesi)
 
 </div>
 
-<details>
-  <summary><h3>🎓 Education & Certifications</h3></summary>
-  <ul>
-    <li>🎓 Bachelor's in Computer Engineering — Ashesi University</li>
-    <li>📜 Machine Learning Specialization — Coursera</li>
-  </ul>
-</details>
+## About me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Animated illustration of a developer at work" />
 
-<div align="center">
+I’m **Emmanuel Adoum**, a Chadian Computer Engineering student at Ashesi University in Ghana, graduating in **May 2027**. My interests sit where software, data, and intelligent systems meet.
+
+I’ve worked on lending workflows, risk intelligence, laboratory onboarding, and finance automation. In my own projects, I build tools for campus life, education, and the practical work of staying organized.
+
+I care about understanding a system beneath its interface: how its data is modeled, how access is enforced, what happens when requests fail, and how someone else can maintain it. My goal is to build reliable, useful technology and contribute to Africa’s technological development.
+
+<br clear="right" />
+
+## Engineering experience
+
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🇬🇭 Ghana Road Transport Network</h3>
-      <div align="center">
-        <a href="https://ghana-transport-network-2026.vercel.app" target="_blank">
-          <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/EmmanuelAdoum-Portfolio/main/public/images/projects/ghana-transport-cover.png" width="100%" alt="Ghana Road Transport Network"/>
-        </a>
-        <p>
-          <a href="https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
-          </a>
-          <a href="https://ghana-transport-network-2026.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Java 17 · Spring Boot · Next.js · Dijkstra · Yen's K-Shortest Paths</strong><br/>
-        Full-stack graph solution to the Ashesi CS Challenge 2026 — models Ghana's intercity road network with shortest path finding, cost analysis, and an interactive force-directed map.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧬 Tumor-Immune Dynamics Model</h3>
-      <div align="center">
-        <a href="https://tumor-model-differential-equations.vercel.app" target="_blank">
-          <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/EmmanuelAdoum-Portfolio/main/public/images/projects/tumor-model-cover.png" width="100%" alt="Tumor-Immune Dynamics Model"/>
-        </a>
-        <p>
-          <a href="https://github.com/adoumouangnamouemmanuel/tumor_model_differential_equations" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
-          </a>
-          <a href="https://tumor-model-differential-equations.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Next.js 14 · React · MathJax · Canvas API · Framer Motion</strong><br/>
-        Interactive platform exploring the NTIUNHDM cancer model — visualizing tumor-immune cell dynamics through differential equations and real-time simulations.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🪐 Solar System Simulation</h3>
-      <div align="center">
-        <a href="https://github.com/adoumouangnamouemmanuel/solar-system-simulation" target="_blank">
-          <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/EmmanuelAdoum-Portfolio/main/public/images/projects/solar-system-cover.png" width="100%" alt="Solar System Simulation"/>
-        </a>
-        <p>
-          <a href="https://github.com/adoumouangnamouemmanuel/solar-system-simulation" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
-          </a>
-        </p>
-        <p><strong>Python · Pygame · OOP · Physics Simulation · CSV I/O</strong><br/>
-        Real-time solar system simulation with Newton's law of gravitation, Kepler's orbital mechanics, multi-body physics, moon support, and CSV data export.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 Developer Portfolio</h3>
-      <div align="center">
-        <a href="https://emmanueladoum.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/EmmanuelAdoum-Portfolio/main/public/images/projects/portfolio-cover.png" width="100%" alt="Developer Portfolio"/>
-        </a>
-        <p>
-          <a href="https://github.com/adoumouangnamouemmanuel/EmmanuelAdoum-Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4F46E5?style=for-the-badge&logo=github" alt="GitHub Code"/>
-          </a>
-          <a href="https://emmanueladoum.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Next.js 15 · TypeScript · Firebase · NextAuth.js · Framer Motion</strong><br/>
-        Cinematic full-stack portfolio & blog — Google OAuth, nested comments, admin dashboard, glassmorphism UI, and physics-based animations.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="170"><img src="assets/logos/revna.svg" width="125" alt="Revna Biosciences" /><br /><strong>Revna Biosciences</strong></td>
+<td align="center" width="170"><img src="assets/logos/affinity.png" width="140" alt="Affinity Africa" /><br /><strong>Affinity Africa</strong></td>
+<td align="center" width="170"><img src="assets/logos/mtn.svg" width="85" alt="MTN Ghana" /><br /><strong>MTN Ghana</strong></td>
+<td align="center" width="170"><img src="assets/logos/nestle.png" width="90" alt="Nestlé Business Services" /><br /><strong>Nestlé NBS</strong></td>
+</tr>
 </table>
-</div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> GitHub Stats
+| Organization & role | Selected contribution |
+| :--- | :--- |
+| **Ashesi Innovation Lab × Revna Biosciences**<br />Project Manager & Backend Engineer<br />Aug - Sep 2026 | Led cross-functional delivery of **ROBIN**, a role-aware onboarding platform for a laboratory, research, and biobank ecosystem. Designed backend services with **FastAPI and PostgreSQL**, covering approvals, documents, permissions, and auditability. |
+| **Affinity Africa**<br />Backend Engineering Intern<br />Jul - Aug 2026 | Co-developed a loan automation backend with **FastAPI and MongoDB**. Designed APIs and data models for lending stages, assessments, documents, decisions, SLAs, and audit history; collaborated on API contracts and handover. |
+| **MTN Ghana**<br />Quantitative & Predictive Risk Modelling Intern<br />Technical Lead & System Architect<br />May - Jul 2026 | Led technical delivery in a four-person team building a risk intelligence platform. Designed ingestion across **18+ news feeds** and worked on NLP risk signals, forecasting, stress testing, and Monte Carlo simulation. |
+| **Nestlé Business Services Accra**<br />Record-to-Report & Automation Intern<br />Jun - Aug 2025 | Automated KRI and OLI reporting with **Power BI, Excel, Power Automate, and Python**. Built reusable ETL scripts and templates, documented workflows, and trained colleagues for handover. |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adoumouangnamouemmanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="200" alt="Emmanuel's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoumouangnamouemmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="Emmanuel's Top Languages"/>
-</div>
+## Selected products
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&theme=tokyonight&hide_border=true&background=0D1117" alt="Emmanuel's GitHub Streak"/>
-</div>
+Real interfaces, practical problems, and the engineering behind them. Screenshots show the supplied interface previews; they do not imply that every planned feature is complete.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adoumouangnamouemmanuel&theme=discord&no-frame=true&column=7&row=1" alt="Emmanuel's GitHub Trophies"/>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adoumouangnamouemmanuel&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Emmanuel's Activity Graph"/>
-</div>
+<a href="https://hilltop.lumavok.com"><img src="assets/projects/hilltop.webp" width="100%" alt="Hilltop marketplace homepage with campus categories, product search, and student listings" /></a>
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Skills & Technologies
+### Hilltop
+**Campus commerce with trust in the workflow**
 
-<details open>
-  <summary><h3>💻 Programming Languages</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </div>
-</details>
+A marketplace for Ashesi students to discover listings, contact sellers, and reserve items for pickup.
 
-<details open>
-  <summary><h3>🌐 Frontend Development</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  </div>
-</details>
+**Engineering:** marketplace and admin applications, shared packages, configurable platform rules, school-email verification, and database permissions.
 
-<details>
-  <summary><h3>⚙️ Backend Development</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-    <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  </div>
-</details>
+**Stack:** Next.js · TypeScript · Supabase · Cloudflare
 
-<details>
-  <summary><h3>📱 Mobile App Development</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  </div>
-</details>
+<a href="https://hilltop.lumavok.com"><img src="https://img.shields.io/badge/Visit%20Hilltop-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Hilltop" /></a> <a href="https://github.com/adoumouangnamouemmanuel/hilltop"><img src="https://img.shields.io/badge/Source-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
 
-<details>
-  <summary><h3>🧠 AI & Machine Learning</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  </div>
-</details>
+<a href="https://github.com/adoumouangnamouemmanuel/hilltop/blob/main/docs/RELIABILITY-REMEDIATION.md"><img src="https://img.shields.io/badge/Reliability%20notes-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Reliability notes" /></a>
 
-<details>
-  <summary><h3>🗄️ Databases & Cloud</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  </div>
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-  <summary><h3>🔧 DevOps & Tools</h3></summary>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </div>
-</details>
+<img src="assets/projects/freshers-hub.webp" width="100%" alt="Freshers Hub campus platform sign-in interface with Ashesi branding and student support illustrations" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
+### Freshers Hub
+**Campus information and support in one place**
 
-<div align="center">
-  <a href="https://linkedin.com/in/ouang-namou-emmanuel-adoum" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/adoumouangnamou" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/adoumouangnamouemmanuel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://kaggle.com/emmanueladoum" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://instagram.com/adoumouangnamouemmanuel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/c/emmanuelouangnamou" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.hackerrank.com/emmanueladoum" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</div>
+A platform I **co-founded and lead development on**, connecting students with campus offices, appointments, support services, and community resources.
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Latest Blog Posts
+**Engineering:** React Native and web clients, Node.js APIs, PostgreSQL workflows, OTP authentication, staff workspaces, and access controls.
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Neural Network from Scratch](https://emmanueladoum.com/blog/neural-network-from-scratch)
-- [The Future of Web Development: What to Expect in 2025](https://emmanueladoum.com/blog/future-web-dev)
-- [Optimizing React Applications for Performance](https://emmanueladoum.com/blog/react-performance)
-- [Getting Started with TensorFlow: A Beginner's Guide](https://emmanueladoum.com/blog/tensorflow-beginners-guide)
-<!-- BLOG-POST-LIST:END -->
+**Stack:** TypeScript · React Native/Expo · Node.js · PostgreSQL
+
+**Role:** Co-founder & Development Lead<br />
+**Source:** Private · Pilot acceptance and deployment work remain in progress.
+
+<img src="https://img.shields.io/badge/Source-Private-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Private source code" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gradmap.emmanueladoum.com"><img src="assets/projects/gradmap.webp" width="100%" alt="GradMap sign-in page with an application workspace invitation and email or Google sign-in" /></a>
+
+### GradMap
+**A clearer view of the next chapter**
+
+A workspace for organizing graduate-school and scholarship applications, programs, deadlines, tasks, and document versions.
+
+**Engineering:** private file access, multi-factor authentication boundaries, ownership policies, document workflows, and reminder scheduling.
+
+**Stack:** Next.js · TypeScript · Supabase · PWA
+
+<a href="https://gradmap.emmanueladoum.com"><img src="https://img.shields.io/badge/Visit%20GradMap-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GradMap" /></a> <a href="https://github.com/adoumouangnamouemmanuel/gradmap"><img src="https://img.shields.io/badge/Source-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+
+<a href="https://github.com/adoumouangnamouemmanuel/gradmap/blob/master/docs/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Architecture" /></a> <a href="https://github.com/adoumouangnamouemmanuel/gradmap/tree/master/supabase/tests"><img src="https://img.shields.io/badge/Tests-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Tests" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/projects/edutrack-africa.webp" width="100%" alt="EduTrack Africa French-language school staff sign-in interface with school code, username, and password fields" />
+
+### EduTrack Africa
+**School administration for local realities**
+
+A French-first, offline-first Windows product for schools in Chad, focused on academic records, term results, and printable bulletins.
+
+**Engineering:** a local API, separate domain calculations, SQLite persistence, and a desktop shell. **Currently in foundation development.**
+
+**Stack:** React · Tauri · Fastify · SQLite
+
+<a href="https://github.com/adoumouangnamouemmanuel/sms"><img src="https://img.shields.io/badge/Explore%20the%20build-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore the build" /></a>
+
+<a href="https://github.com/adoumouangnamouemmanuel/sms/tree/main/docs/decisions"><img src="https://img.shields.io/badge/Architecture-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Architecture" /></a> <a href="https://github.com/adoumouangnamouemmanuel/sms/tree/main/tests"><img src="https://img.shields.io/badge/Tests-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Tests" /></a>
+
+</td>
+</tr>
+</table>
+
+## Leadership & distinction
+
+| Role or distinction | Context |
+| :--- | :--- |
+| **President, Mastercard Foundation Scholars Community at Ashesi** | Current president, representing scholars and supporting welfare, academic support, and council initiatives. |
+| **Claude Campus Ambassador at Ashesi** | Current ambassador, growing a community of students learning and building through CBC Ashesi. |
+| **Former President, International Students Association** | Jan 2025 - Jan 2026. Represented 400+ international students at Ashesi. |
+| **Former Lead, Ashesi AI Club** | Jan 2025 - Sep 2026. Led AI community initiatives and supported student learning. |
+| **Mathematics & programming tutor** | Supporting students in calculus, programming, object-oriented design, and algorithms. |
+
+**Selected distinctions:** National Best Baccalaureate Student, Chad (2022) · 1st place, Ashesi Career Fair Programming Competition (2026) · Winning team, Nestlé Ghana Sentiment Analysis Competition (2024) · 1st place, programming competition in Niamey, Niger (2023).
+
+### Build with us at CBC Ashesi
+
+**New to AI or already building? You are welcome here.**
+
+Join the **Claude Builder Club at Ashesi University** to learn, exchange ideas, meet other builders, and develop practical projects together.
+
+<a href="https://www.jotform.com/253555944387168"><img src="https://img.shields.io/badge/Join_CBC_Ashesi-Sign_up-2563EB?style=for-the-badge&logo=claude&logoColor=white" alt="Sign up for Claude Builder Club at Ashesi University" /></a>
+
+[Register for CBC Ashesi →](https://www.jotform.com/253555944387168)
+
+## Technical toolkit
 
 <div align="center">
-  <a href="https://emmanueladoum.com/blog">
-    <img src="https://img.shields.io/badge/Read%20More%20Posts-4F46E5?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read More"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,nodejs,react,nextjs,postgres,mongodb,docker,git&perline=6&theme=dark" alt="Python, FastAPI, Java, Spring, TypeScript, Node.js, React, Next.js, PostgreSQL, MongoDB, Docker, and Git" />
+
 </div>
 
-## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> Coding Activity
+| Area | Technologies used across work, projects, and learning |
+| :--- | :--- |
+| **Backend & data** | Python, FastAPI, Java, Spring Boot, Node.js, SQL, PostgreSQL, MongoDB |
+| **Web & mobile** | TypeScript, React, Next.js, React Native/Expo |
+| **AI & analytics** | NLP, PyTorch, scikit-learn, pandas, NumPy, forecasting, Monte Carlo simulation |
+| **Systems & automation** | C, STM32, ESP32, Docker, Linux, Power BI, Power Automate |
+
+## Learning & exploration
+
+**Currently deepening:** backend architecture and security, data structures and algorithms, operating systems, networking, and embedded systems.
+
+- **[Computer from Scratch](https://github.com/adoumouangnamouemmanuel/computer-from-scratch):** building understanding from digital logic toward computer architecture.
+- **[Moussey-French language technology](https://github.com/adoumouangnamouemmanuel/moussey-french-translator):** corpus work, a digital dictionary, and prototype translation workflows for a low-resource African language.
+- **[Ghana Road Transport Network](https://github.com/adoumouangnamouemmanuel/ghana-transport-network-2026):** a collaborative graph-algorithm project with Java, Spring Boot, and an interactive interface.
+
+## Activity & consistency
 
 <div align="center">
-  <img src="https://wakatime.com/share/@adoumouangnamouemmanuel/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" height="400"/>
+
+<img src="assets/generated/github-stats.svg" width="100%" height="320" alt="GitHub activity statistics, refreshed by the profile statistics workflow" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adoumouangnamouemmanuel&hide_border=true&background=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" height="320" alt="GitHub contribution streak" />
+
+[View my contribution calendar on GitHub](https://github.com/adoumouangnamouemmanuel#year-list-container)
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake tracing my GitHub contribution calendar" />
+</picture>
+
+**Understand deeply. Build thoughtfully. Keep improving.**
+
+[Explore my work](https://emmanueladoum.com) · [Connect on LinkedIn](https://www.linkedin.com/in/emmanueladoum) · [Get in touch](mailto:emmanuel.ouangnamou@gmail.com)
+
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adoumouangnamouemmanuel/adoumouangnamouemmanuel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adoumouangnamouemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Emmanuel%20Adoum-6366F1" alt="Made with love" />
-</div>
-
-<!--
-  Note: To create the GitHub Snake Animation, set up a GitHub Action.
-  Create .github/workflows/snake.yml with the appropriate configuration.
-
-  For the blog post list, use the blog-post-workflow GitHub Action:
-  https://github.com/gautamkrishnar/blog-post-workflow
--->
